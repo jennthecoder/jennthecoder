@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jennthecoder, I am a self-taught developer
-- 👀 I’m interested in Full stack development
+- 👋 Hi, I’m @jennthecoder, I am a software developer 
+- 👀 I’m interested in Full stack development with a knack for front end developement.
 - 🌱 I’m currently learning Web security
 
 
