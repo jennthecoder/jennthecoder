@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jennthecoder, I am a software developer 
-- 👀 I’m interested in Full stack development with a knack for front end developement.
+- 👋 Hi, I’m Jennifer, I am a software developer located in Toronto, Ontario, Cananda.
+- 👀 I’m interested in in the entire software development lifecycle, from development to deployment to monitoring and alerting.
 - 🌱 I’m currently focused on platform and cloud microservices architecture.
 
 <!---
