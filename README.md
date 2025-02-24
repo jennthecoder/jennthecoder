@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jennthecoder, I am a software developer 
 - 👀 I’m interested in Full stack development with a knack for front end developement.
-- 🌱 I’m currently learning cloud architecture, studing for my AWS cloud architect certificate and building cloud projects
-
+- 🌱 I’m currently focused on platform and cloud microservices architecture.
 
 <!---
 jennthecoder/jennthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
